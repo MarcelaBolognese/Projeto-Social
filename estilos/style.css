@@ -38,10 +38,15 @@ section#telefone {
 }
 
 section#gato { 
-    background:url('../imagens/gato.png') no-repeat;
-    background-size: 40% 50%;
-    position: relative;
-    height: 97vh;
-    padding: 10px;
+    position: absolute;
+    top: 35%;
+    left: 0%;
+
+    
+
+    height: 600px;
+    width: 611px;
+
+    background:url('../imagens/gato.png') no-repeat;  
     background-position: left bottom;    
 }
